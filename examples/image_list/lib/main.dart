@@ -134,7 +134,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page', port: port),
+      home: MyHomePage(title: 'Aye Test Flutter Demo Home Page', port: port),
     );
   }
 }
